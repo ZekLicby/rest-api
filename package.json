@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Primeiro projeto pessoal de uma rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZekLicby/rest-api.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "javascript"
+  ],
+  "author": "Carlos Lins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZekLicby/rest-api/issues"
+  },
+  "homepage": "https://github.com/ZekLicby/rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
